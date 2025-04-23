@@ -1,0 +1,18 @@
+{
+    "log_levels_count": {
+        "INFO": 5,
+        "ERROR": 3,
+        "WARN": 2,
+        "DEBUG": 1
+    },
+    "service_count": {
+        "ServiceA": 3,
+        "ServiceB": 4,
+        "ServiceC": 2,
+        "ServiceD": 1,
+        "ServiceE": 1
+    },
+    "most_common_error_message": "Null pointer exception",
+    "most_common_error_count": 2,
+    "malformed_lines_count": 2
+}
